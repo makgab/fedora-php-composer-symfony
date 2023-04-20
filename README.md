@@ -1,5 +1,11 @@
-# fedora-php-composer-symfony
+# Fedora PHP, Composer, Symfony
 Howto for PHP using Composer, Symfony
+
+Composer: Dependency Manager for PHP
+
+Symfony: PHP framework for web projects
+
+
 
 
 # Documentation, homepage
